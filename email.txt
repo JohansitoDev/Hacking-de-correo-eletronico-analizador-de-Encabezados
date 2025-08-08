@@ -1,0 +1,4 @@
+From: ejemplo@dominio.com
+To: destinatario@otrodominio.org
+Subject: Prueba de analizador de encabezados en C++
+Date: Thu, 7 Aug 2025 11:02:06 +0000
